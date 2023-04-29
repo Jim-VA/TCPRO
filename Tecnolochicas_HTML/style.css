@@ -1,0 +1,26 @@
+/*Comentario en CSS*/
+body{
+    background-color:#dcb5ff;
+    color:#77529e;
+    font-family: 'Handlee', cursive;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color:#41245c;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 450px;
+    border-style:dotted;
+    border-width: 5px;
+    border-color:blueviolet;
+    padding: 13px;
+    margin: 20px;
+}
